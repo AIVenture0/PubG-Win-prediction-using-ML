@@ -62,6 +62,7 @@ The output of the code is to predict the  "Final Finish Placement Prediction" of
 
 - Twitter: https://twitter.com/vikramvinay1
 - Linkdin: https://www.linkedin.com/in/vikram-singh-ai-venture/
+- Facebook: https://www.facebook.com/AIVentureO/
 # Ai Venture
 - Website: http://ai-venture.com/
 
