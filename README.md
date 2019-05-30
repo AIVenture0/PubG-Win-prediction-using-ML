@@ -1,4 +1,4 @@
-# PUBG Finish Placement Prediction Using Machine Leanring
+# PUBG Finish Placement Prediction Using Machine Learning
 <b>PlayerUnknown's BattleGrounds (PUBG)</b>
 
 
