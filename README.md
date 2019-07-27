@@ -56,6 +56,7 @@ The output of the code is to predict the  "Final Finish Placement Prediction" of
 
 ### Youtube Video
 
+Check out  the complete descriptive video based on the code described in this GitHub repo:
 [![Pubg](https://raw.githubusercontent.com/AIVenture0/PubG-Win-prediction-using-ML/master/Pubg.png)](https://youtu.be/V-ywy6XzrCE)
 
 # Author
