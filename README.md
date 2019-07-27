@@ -1,9 +1,5 @@
 # PUBG Finish Placement Prediction Using Machine Learning
 <b>PlayerUnknown's BattleGrounds (PUBG)</b>
-<br>
-### Check the complete descriptive video based on the code describe in this github repo: https://youtu.be/V-ywy6XzrCE
-<br>
-
 
 ![](https://storage.googleapis.com/kaggle-media/competitions/PUBG/PUBG%20Inlay.jpg)
 
@@ -58,6 +54,9 @@ Starting guide for Colab beginners : [GET STARTED WITH GOOGLE COLAB # FREE GPU](
 ## Result
 The output of the code is to predict the  "Final Finish Placement Prediction" of all the playes who participated in the Game.
 
+### Youtube Video
+
+[![Pubg](https://raw.githubusercontent.com/AIVenture0/PubG-Win-prediction-using-ML/master/Pubg.png")](https://youtu.be/V-ywy6XzrCE)
 
 # Author
 <b>Vikram singh</b>
