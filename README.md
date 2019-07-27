@@ -1,10 +1,12 @@
 # PUBG Finish Placement Prediction Using Machine Learning
 <b>PlayerUnknown's BattleGrounds (PUBG)</b>
-
-
+<br>
+### Check the complete descriptive video based on the code describe in this github repo: https://youtu.be/V-ywy6XzrCE
+<br>
 
 
 ![](https://storage.googleapis.com/kaggle-media/competitions/PUBG/PUBG%20Inlay.jpg)
+
 
 
 # Getting Started
