@@ -25,6 +25,8 @@ trade-offs and building blocks for creating real-world examples of distributed M
 
 # Prerequisites
 
+![Prerequisites](https://media2.giphy.com/media/RV9yRyaeBJnFe/source.gif)
+
 This pubg repo  is for beginners & intermediate machine learners like you who want to learn more about ML, 
 how to scale out your ML model, and then quickly turn around and use the tools and techniques you are about to learn from this course to solve your tricky Machine Learing tasks.
 
