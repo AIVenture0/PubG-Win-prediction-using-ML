@@ -54,20 +54,18 @@ Starting guide for Colab beginners : [GET STARTED WITH GOOGLE COLAB # FREE GPU](
 ## Result
 The output of the code is to predict the  "Final Finish Placement Prediction" of all the playes who participated in the Game.
 
-### Youtube Video
-
+## Youtube Video
 Check out  the complete descriptive video based on the code described in this GitHub repo:
-
 
 [![Pubg](https://raw.githubusercontent.com/AIVenture0/PubG-Win-prediction-using-ML/master/Pubg.png)](https://youtu.be/V-ywy6XzrCE)
 
-# Author
+## Author
 <b>Vikram singh</b>
 
 - Twitter: https://twitter.com/vikramvinay1
 - Linkdin: https://www.linkedin.com/in/vikram-singh-ai-venture/
 - Facebook: https://www.facebook.com/AIVentureO/
-# Ai Venture
+## Ai Venture
 - Website: http://ai-venture.com/
 
                                         Feel Free to contact us if you have any question:-
