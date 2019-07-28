@@ -74,5 +74,5 @@ Check out  the complete descriptive video based on the code described in this Gi
 ## Ai Venture
 - Website: http://ai-venture.com/
 
-                                        Feel Free to contact us if you have any question
+                                        -----Feel Free to contact us if you have any question-----
                                         
