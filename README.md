@@ -64,7 +64,9 @@ Check out  the complete descriptive video based on the code described in this Gi
 
 - Twitter: https://twitter.com/vikramvinay1
 - Linkdin: https://www.linkedin.com/in/vikram-singh-ai-venture/
-- Facebook: https://www.facebook.com/AIVentureO/
+- Facebook: https://www.facebook.com/AIVentureO/https://www.quora.com/profile/Vinay-Vikram-8
+- Quora: https://www.quora.com/profile/Vinay-Vikram-8
+
 ## Ai Venture
 - Website: http://ai-venture.com/
 
