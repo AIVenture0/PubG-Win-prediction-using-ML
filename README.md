@@ -10,8 +10,10 @@
 Battle Royale-style video games have taken the world by storm. 100 players are dropped onto an island empty-handed and must explore, 
 scavenge, and eliminate other players until only one is left standing, all while the play zone continues to shrink.
 
-It's a kaggle competation where we have to predict the final "Finish Placement Prediction" of all the players who participated in the Game.
-This repo is aimed at intermediate machine learning engineers, 
+![Kaggle Image](https://raw.githubusercontent.com/AIVenture0/PubG-Win-prediction-using-ML/master/Image/kaggle.png)
+
+It's a kaggle competition where we have to predict the final "Finish Placement Prediction" of all the players who participated in the Game.
+This repo  aimed at intermediate machine learning engineers,
 DevOps, technology architects and programmers who are interested in knowing more about How to practically use machine learning,
 especially in the relm of big data set. After gaining most out of this repo, 
 you have a descent understanding of how to scale-out machine learning algorithms in general and how to use them.
