@@ -1,5 +1,5 @@
 # PUBG Finish Placement Prediction Using Machine Learning
-<b>PlayerUnknown's BattleGrounds (PUBG)</b>
+<b>[PlayerUnknown's BattleGrounds (PUBG)](https://www.kaggle.com/c/pubg-finish-placement-prediction)</b>
 
 ![](https://storage.googleapis.com/kaggle-media/competitions/PUBG/PUBG%20Inlay.jpg)
 
@@ -31,11 +31,11 @@ This pubg repo  is for beginners & intermediate machine learners like you who wa
 how to scale out your ML model, and then quickly turn around and use the tools and techniques you are about to learn from this course to solve your tricky Machine Learing tasks.
 
 You will be successfully is project  if you have a basic knowledge of computer programming especially Python programming language. 
-Also some familiarity with Machine Learning like ML Algorithm and their  will be helpful.
+Also some familiarity with Machine Learning like ML Algorithm.
 
-In this course, you will need a AWS free tier account. Note that you won't be charged by creating the account.
-Particularly in aws we gonna work on amazon sagemaker notebook very similar to jupyter notebook.
-- Amazon SageMaker: https://aws.amazon.com/sagemaker/
+In this course, you will need a AWS free tier account. __Note__ that you won't be charged by creating the account.
+Particularly in aws we gonna work on __amazon sagemaker notebook__ very similar to __jupyter notebook__.
+- [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 
 ## Dependencies 
 * Regression Algorithms
@@ -56,10 +56,10 @@ notebook, gmail account is must.
 Starting guide for Colab beginners : [GET STARTED WITH GOOGLE COLAB # FREE GPU](http://ai-venture.com/get-started-with-google-colab-free-gpu/). 
 
 ## Result
-The output of the code is to predict the  "Final Finish Placement Prediction" of all the playes who participated in the Game.
+The output of the code is to predict the  __Final Finish Placement Prediction__ of all the playes who participated in the Game.
 
 ## Youtube Video
-Check out  the complete descriptive video based on the code described in this GitHub repo:
+Check out  the complete descriptive video based on the code described in this __[GitHub repo](https://github.com/AIVenture0/PubG-Win-prediction-using-ML)__:
 
 [![Pubg](https://raw.githubusercontent.com/AIVenture0/PubG-Win-prediction-using-ML/master/Image/Pubg.png)](https://youtu.be/V-ywy6XzrCE)
 
@@ -71,8 +71,7 @@ Check out  the complete descriptive video based on the code described in this Gi
 - Facebook: https://www.facebook.com/AIVentureO/https://www.quora.com/profile/Vinay-Vikram-8
 - Quora: https://www.quora.com/profile/Vinay-Vikram-8
 
-## Ai Venture
-- Website: http://ai-venture.com/
+## [Visit AiVenture](https://www.youtube.com/channel/UCpAA7n7LcTmGBuNVpqOv-3w)
 
                                         -----Feel Free to contact us if you have any question-----
                                         
