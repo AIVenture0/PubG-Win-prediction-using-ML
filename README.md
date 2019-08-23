@@ -19,8 +19,7 @@ you have a descent understanding of how to scale-out machine learning algorithms
 
 
 Tools and frameworks like, scikit learn,google colab , and AWS(amazon web services)  are used to showcase the strengths of various approaches, 
-trade-offs and building blocks for creating real-world examples of distributed ML models.
-- Link to kaggle Pubg Competition: https://www.kaggle.com/c/pubg-finish-placement-prediction 
+trade-offs and building blocks for creating real-world examples of distributed ML models. 
 
 <p align="center"> 
 <img src="https://www.justicebrd.com/static/images/fast.png" width='258px' height='258px'>
@@ -28,7 +27,6 @@ trade-offs and building blocks for creating real-world examples of distributed M
 
 __Quick Start__: [View](https://nbviewer.jupyter.org/github/AIVenture0/PubG-Win-prediction-using-ML/blob/master/PUBG%20Model%20With%20Limited%20Computation.ipynb) a static version of the notebook in the comfort of your own web browser
 
--------
 
 <br>
 
