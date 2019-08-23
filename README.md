@@ -24,8 +24,6 @@ trade-offs and building blocks for creating real-world examples of distributed M
 - Link to kaggle Pubg Competition: https://www.kaggle.com/c/pubg-finish-placement-prediction 
 
 <br>
-<br>
-------
 
 __Quick Start__: [View](https://nbviewer.jupyter.org/github/AIVenture0/PubG-Win-prediction-using-ML/blob/master/PUBG%20Model%20With%20Limited%20Computation.ipynb) a static version of the notebook in the comfort of your own web browser
 
