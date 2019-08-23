@@ -23,10 +23,6 @@ Tools and frameworks like, scikit learn,google colab , and AWS(amazon web servic
 trade-offs and building blocks for creating real-world examples of distributed ML models.
 - Link to kaggle Pubg Competition: https://www.kaggle.com/c/pubg-finish-placement-prediction 
 
-<p align="center"> 
-<img src="https://cdn2.iconfinder.com/data/icons/greenline/512/camera-512.png" width='50px' height='50px'>
-</p>
-
 __Quick Start__: [View](https://nbviewer.jupyter.org/github/AIVenture0/PubG-Win-prediction-using-ML/blob/master/PUBG%20Model%20With%20Limited%20Computation.ipynb) a static version of the notebook in the comfort of your own web browser
 
 # Prerequisites
