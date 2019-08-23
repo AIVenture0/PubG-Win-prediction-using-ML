@@ -4,7 +4,6 @@
 ![](https://storage.googleapis.com/kaggle-media/competitions/PUBG/PUBG%20Inlay.jpg)
 
 
-
 # Getting Started
 
 Battle Royale-style video games have taken the world by storm. 100 players are dropped onto an island empty-handed and must explore, 
@@ -23,7 +22,9 @@ Tools and frameworks like, scikit learn,google colab , and AWS(amazon web servic
 trade-offs and building blocks for creating real-world examples of distributed ML models.
 - Link to kaggle Pubg Competition: https://www.kaggle.com/c/pubg-finish-placement-prediction 
 
-<br>
+<p align="center"> 
+<img src="https://www.justicebrd.com/static/images/fast.png" width='258px' height='258px'>
+</p>
 
 __Quick Start__: [View](https://nbviewer.jupyter.org/github/AIVenture0/PubG-Win-prediction-using-ML/blob/master/PUBG%20Model%20With%20Limited%20Computation.ipynb) a static version of the notebook in the comfort of your own web browser
 
